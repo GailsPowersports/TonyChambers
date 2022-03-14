@@ -21,6 +21,25 @@ a {
 	text-decoration: none;
 }
 
+mark.grey {
+    color:#595959;
+    background: none;
+}
+
+mark.red {
+    color:#FF0000;
+    background: none;
+}
+mark.blue {
+    color:#0070C0;
+    background: none;
+}
+
+mark.green {
+    color:#00B050;
+    background: none;
+}
+
 img {
 	display: block;
     margin-left: auto;
