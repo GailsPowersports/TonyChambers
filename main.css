@@ -9,8 +9,8 @@ body {
 .responsive {
   width: 100%;
   height: auto;
-  max-width: 50px;
-  align: left;
+  max-width: 100px;
+  float:left;
 }
 
 section {
