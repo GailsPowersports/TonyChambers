@@ -22,22 +22,33 @@ a {
 }
 
 mark.grey {
+font-family: 'Calibri', sans-serif;
     color:#595959;
     background: none;
+	font-weight: bold;
 }
 
 mark.red {
+font-family: 'Calibri', sans-serif;
     color:#FF0000;
     background: none;
+	font-weight: bold;
 }
 mark.blue {
     color:#0070C0;
     background: none;
+	font-weight: bold;
+}
+mark.black {
+    color:#000000;
+    background: none;
+	font-weight: bold;
 }
 
 mark.green {
     color:#00B050;
     background: none;
+	font-weight: bold;
 }
 
 img {
