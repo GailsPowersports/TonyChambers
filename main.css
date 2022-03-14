@@ -6,6 +6,11 @@ body {
   justify-content: center;
 }
 
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
 section {
 	display: block;
 	padding-left: 0.5rem;
